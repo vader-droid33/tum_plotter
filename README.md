@@ -2,6 +2,8 @@
 
 A lightweight CLI tool for visualising and comparing SLAM trajectories from TUM format files. Produces publication-ready plots with APE statistics, useful for anyone evaluating localisation algorithms.
 
+![Trajectory Comparison](examples/trajectory_comparison.png)
+
 ## Features
 
 - Plot single or multiple trajectories on the same 2D/3D axes
